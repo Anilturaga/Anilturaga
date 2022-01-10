@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Anilturaga
 - 👀 I’m interested in deep learning, app and game development
-- 🌱 I’m currently a 4th year computer science student at Mahindra University
+- 🌱 I’m currently a Deep Learning Engineer at MindGraph/Untagle AI
+- 🏫 I have a computer science degree from Mahindra University
 -  💡 Most recent projects: https://frat.team, https://battleship-game.vercel.app
-- 📫 How to reach me -> 🥚
+- 📫 How to reach me -> anil@untangle.ai
 
 
 
